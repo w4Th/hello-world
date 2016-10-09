@@ -7,12 +7,15 @@ This is my first test in github
 Do you ask me what can i do ?
 I will tell you nothing is impossible !
 
-just 
+just  
 like this *hhh*
 
-like this ** hello~ **
+like this **hello~**
 
 ## like this
+### or this ?
+#### even this ?
+ :)
 
 * like this
 
@@ -20,8 +23,17 @@ like this ** hello~ **
 |-----|-------|
 |hhh~ |what do you think ?|
 
-so
+and this ?
+```
+this is a code
+```
+---
+Aha!isn't it amazing?  
+so  
 let's do something !
+
+
+
 
 
 
